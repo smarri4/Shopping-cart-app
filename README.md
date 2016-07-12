@@ -1,1 +1,1 @@
-# shopizer
+# Shopping cart App
