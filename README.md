@@ -11,7 +11,7 @@ To run the application:
 -------------------	
 From the command line with Maven installed:
 
-	$ cd shopizer
+	$ cd Shopping-cart-app
 	$ mvn clean install
 	
 
@@ -68,19 +68,19 @@ You should increase Eclipse memory if your ntention is to build the project and 
 <br/>
 
 
-Import shopizer project as a maven module project
+Import Shopping-cart-app project as a maven module project
 
 For this, from eclipse Import – Maven – Existing maven project
 
-Select shopizer and click OK
+Select Shopping-cart-app and click OK
 
 ```xml
 
 Build the project
 
-Right-click shopizer > Run As > Maven clean
-Right-click shopizer > Run As > Maven generate-sources
-Right-click shopizer > Run As > Maven install
+Right-click Shopping-cart-app > Run As > Maven clean
+Right-click Shopping-cart-app > Run As > Maven generate-sources
+Right-click Shopping-cart-app > Run As > Maven install
 
 ```
 
